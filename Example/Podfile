@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleSDK_Example' do
+  pod 'SimpleSDK', :path => '../'
+
+  target 'SimpleSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
