@@ -1,0 +1,6 @@
+framework module SimpleSDK {
+  umbrella header "SimpleSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

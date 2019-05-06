@@ -1,0 +1,22 @@
+{
+  "name": "SimpleSDK",
+  "version": "0.1.0",
+  "summary": "A short description of SimpleSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/alexj70/SimpleSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "alexj70": "aleksandr@unitspace.top"
+  },
+  "source": {
+    "git": "https://github.com/alexj70/SimpleSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SimpleSDK/Classes/**/*"
+}
